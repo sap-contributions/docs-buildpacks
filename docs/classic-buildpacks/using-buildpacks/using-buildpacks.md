@@ -1,6 +1,8 @@
 ---
 title: Using Classic Buildpacks in Cloud Foundry
 owner: Buildpacks
+sidebar_label: What are classic buildpacks?
+sidebar_position: 1
 ---
 
 This section provides links to additional information about using buildpacks. Each of the following

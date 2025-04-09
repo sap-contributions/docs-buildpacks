@@ -19,8 +19,9 @@ You can use multiple buildpacks for your app.
 
 For example:
 
-<p class="note">
-You must use cf CLI v8 or later.</p>
+:::info
+You must use cf CLI v8 or later.
+:::
 
 ```
  cf push APP-NAME --lifecycle cnb -b docker://FIRST-BUILDPACK -b docker://SECOND-BUILDPACK

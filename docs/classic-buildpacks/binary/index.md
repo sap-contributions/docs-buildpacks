@@ -155,9 +155,9 @@ For information about deploying different types of .NET apps, follow the links i
   </thead>
   <tr>
     <td>
-        ASP.NET MVC<br>
-        ASP.NET Web Forms<br>
-        ASP.NET WebAPI Apps<br>
+        ASP.NET MVC<br/>
+        ASP.NET Web Forms<br/>
+        ASP.NET WebAPI Apps<br/>
         Windows Communication Foundation (WCF)
     </td>
     <td><a href="../hwc/index.html">HWC</a></td>
