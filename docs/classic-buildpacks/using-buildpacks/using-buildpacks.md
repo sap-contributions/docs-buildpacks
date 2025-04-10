@@ -8,7 +8,7 @@ sidebar_position: 1
 This section provides links to additional information about using buildpacks. Each of the following
 topics are applicable to all supported buildpack languages and frameworks:
 
-* [Working with buildpacks in Cloud Foundry](./understand-buildpacks.html)
+* [Working with buildpacks in Cloud Foundry](./understand-buildpacks.md)
 
 * [Stack association](./stack-association.html)
 
